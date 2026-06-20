@@ -2266,3 +2266,6 @@ body .panel p {
   font-size: 12px;
   line-height: 20px;
 }
+body .panel {
+  display: none !important;
+}
